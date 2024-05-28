@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(0, 0, 0);
+  }
+  .amiibo-card {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    background-color: white;
+    padding: 20px;
+  }
+  .amiibo-img {
+    max-width: 100%;
+    height: auto;
+  }
+  .h1{
+    text-align: center;
+    color: white;
+  }
+  .p{
+    text-align: center;
+    color: white;
+  }
+  .btn{
+    padding: 5px 75px;
+    margin-left:35% ;
+  }
